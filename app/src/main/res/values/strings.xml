@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="service_question">¿Cómo fue el servicio?</string>
+    <string name="excellent_service">Servicio increíble (20%)</string>
+    <string name="good_service">Buen servicio (18%)</string>
+    <string name="normal_service">Servicio aceptable (15%)</string>
+    <string name="bad_service">Pésimo servicio (0%)</string>
+    <string name="round_tip">Redondear propina</string>
+    <string name="tip_amount">Cantidad de propina:</string>
+</resources>
